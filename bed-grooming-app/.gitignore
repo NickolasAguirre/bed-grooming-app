@@ -1,0 +1,76 @@
+# Visual Studio
+.vs/
+.vscode/
+*.sln.DotSettings.user
+*.user
+*.userosscache
+*.sln.user
+*.suo
+*.sln.DotSettings
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Dd]ebugPublic/
+[Rr]eleasePublic/
+
+# Nuget
+packages/
+.nuget/
+*.nupkg
+*.snupkg
+.nuget/packages/
+
+# Entity Framework
+*.db
+*.db-shm
+*.db-wal
+Migrations/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+
+# ReSharper
+.idea/
+*.resharper
+*.resharper.user
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+
+# Build folders
+build/
+dist/
+
+# IDE specific files
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+*.sln.iml
+
+# Local environment
+.env
+.env.local
+appsettings.Development.json
+appsettings.json
+# Temporary files
+*.tmp
+*.temp
+*.log

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../bed-grooming-app.application/bed-grooming-app.application.csproj" />
+  <Project Path="../bed-grooming-app.common/bed-grooming-app.common.csproj" />
+  <Project Path="../bed-grooming-app.domain/bed-grooming-app.domain.csproj" />
+  <Project Path="../bed-grooming-app.infrastructure/bed-grooming-app.infrastructure.csproj" />
+  <Project Path="bed-grooming-app.api.csproj" />
+</Solution>
